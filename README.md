@@ -1,3 +1,4 @@
+
 # TDD-decision-tree
                                 
                                   Write a functional test
@@ -11,3 +12,7 @@
                                          Refactor
                                             ↓ 
                                      Write minimal code
+
+
+Feature test: manual in irb
+Unit: rspec
