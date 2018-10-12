@@ -1,7 +1,7 @@
 
 # TDD-decision-tree
                                 
-Check 'TDD.png'
+Check 'TDD.PNG'
 
 Feature test: manual in irb
 Unit: rspec
